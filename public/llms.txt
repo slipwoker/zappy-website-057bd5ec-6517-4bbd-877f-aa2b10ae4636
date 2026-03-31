@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+וייב הוא המגזין הדיגיטלי שמביא לך את הכתבות, הטורים והטיפים החמים ביותר בעברית. תוכן איכותי, עיתונאות חכמה וקריאה מהנה — הכל במקום אחד. היכנס עכשיו וגלה עולם חדש.
+
+### מדורים
+https://example.com/editorial-sections
+מדורי וייב מציעים מגוון עשיר של תכנים עריכתיים — משיווק דיגיטלי ועד טיפים ליוצרי תוכן דיגיטלי. כל מדור נכתב בידי מומחים ומיועד לקוראים שרוצים ידע אמיתי. בחר את המדור שלך והתחל לקרוא.
+
+### אודות
+https://example.com/about
+וייב נולד מתוך אהבה אמיתית לתוכן דיגיטלי ולכתיבה בעברית. גלה מי עומד מאחורי המגזין, מה מניע אותנו ולמה אנחנו מחויבים להביא לך רק את הטוב ביותר. הכירו את הצוות שמאחורי בלוג שיווק התוכן המוביל בישראל.
+
+### צור קשר
+https://example.com/contact
+רוצה לשתף פעולה, להציע כתבה או פשוט להגיד שלום? צוות וייב זמין עבורך ומוזמן לשמוע כל רעיון. פנה אלינו עוד היום ובנה יחד איתנו את עתיד התוכן הדיגיטלי בעברית. נחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
